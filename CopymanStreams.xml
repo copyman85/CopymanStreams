@@ -1,41 +1,24 @@
 <item>
 <title>CNN 1</title>
 <link>rtmp://ca-edge-2.cdn2.streamago.tv app=streamagoedge/34960 playpath=28965 live=1 timeout=10 swfUrl=http://www.streamago.tv/inc/app/StreamVideo.swf pageUrl=http://www.streamago.tv</link>
-<thumbnail>-</thumbnail>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cnn.svg/200px-Cnn.svg.png</thumbnail>
 </item>
+
+<item>
+<title>CNN 2</title>
+<link>rtmpt://a.cdn.newschat.tv:80/edge playpath=cnn_live live=1 timeout=10 swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/breaking/</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cnn.svg/200px-Cnn.svg.png</thumbnail>
+</item>
+
 
 <item>
 <title>HLN 1</title>
 <link>rtmp://c.cdn.newschat.tv/edge playpath=hln_live live=1 timeout=10 swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/twoons/</link>
-<thumbnail>-</thumbnail>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/3/39/HLN_logo.svg/268px-HLN_logo.svg.png</thumbnail>
 </item>
 
 <item>
-<title>HLN 2</title>
-<link>rtmp://173.193.242.248/zenex app=streamagoedge/34960 playpath=hlnhllnn?id=1339 live=1 timeout=10 swfUrl=http://www.zenex.tv/data/scripts/eplayer.swf pageUrl=http://www.zenex.tv/embedplayer/hlnhllnn/1/600/400</link>
-<thumbnail>-</thumbnail>
-</item>
-
-<item>
-<title>HLN 3</title>
-<link>rtmp://204.45.157.98/app app=streamagoedge/34960 playpath=16425?MTQwMTM5ODU5NjtlYmZmNTdlNDFhODIyZGVhNmQ3MTI4NzBkNzc4OTdlNA== live=1 timeout=10 swfUrl=http://cdn.shidurlive.com/player.swf pageUrl=http://www.shidurlive.com/stream/4e6a6732597a5a6c/66f2a962476c</link>
-<thumbnail>-</thumbnail>
-</item>
-
-<item>
-<title>HLN 4</title>
-<link>rtmp://zssd-panda.live.camzonecdn.com:1935 app=CamzoneStreams playpath=zssd-panda?MTQwMTQwMDYyMDtjZGI4NDFhMTk5YzlhMmQ1OThkMTJlZTI1ZmJmZGExYw== live=1 timeout=10 swfUrl=http://cdn.shidurlive.com/player.swf pageUrl=http://www.shidurlive.com/stream/4e7a41324d545a6c4e6a51324d544a6b4e6a4d324d545a6b/3a22ab020c2c</link>
-<thumbnail>-</thumbnail>
-</item>
-
-<item>
-<title>CNN 3</title>
-<link>rtmp://mi-edge-1.cdn2.streamago.tv:80/streamagoedge/34960?idutente=34960&idcanale=28965&pwd= app=streamagoedge/34960?idutente=34960&idcanale=28965&pwd= playpath=28965 live=1 timeout=10 swfUrl=http://www.streamago.tv/inc/app/StreamVideo.swf pageUrl=http://www.streamago.tv/channel/28965/default/iframe/</link>
-<thumbnail>-</thumbnail>
-</item>
-
-<item>
-<title>CNN 4</title>
-<link>rtmp://rm-edge-9.cdn2.streamago.tv:80/streamagoedge/34960?idutente=34960&idcanale=28965&pwd= app=streamagoedge/34960?idutente=34960&idcanale=28965&pwd= playpath=28965 live=1 timeout=10 swfUrl=http://www.streamago.tv/inc/app/StreamVideo.swf pageUrl=http://www.streamago.tv/channel/28965/default/iframe/</link>
-<thumbnail>h-</thumbnail>
+<title>BBC World News</title>
+<link>rtmp://a.cdn.newschat.tv/edge playpath=bbcwn_live live=1 timeout=10 swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/world/</link>
+<thumbnail>https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpa1/t1.0-1/c8.0.160.160/p160x160/63084_10152402445467588_62012461_n.jpg</thumbnail>
 </item>
