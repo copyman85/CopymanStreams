@@ -41,14 +41,14 @@
 </item>
 
 <item>
-<title>abc test</title>
+<title>ABC</title>
 <link>rtmpe://watch.playfooty.tv/live playpath=abc1569 live=1 timeout=10 app=live swfUrl=http://www.playfooty.tv/play/player/player.swf pageUrl=http://www.playfooty.tv/play/embed.php?u=abc1569&vw=600&vh=430</link>
 <thumbnail>xxxxxx</thumbnail>
 </item>
 
 <item>
 <title>xxxxxx</title>
-<link>xxxxxx</link>
+<link>rtmpe://watch.playfooty.tv/live playpath=amc1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 timeout=10 pageUrl=http://www.playfooty.tv/play/embed.php?u=amc1569&vw=600&vh=430</link>
 <thumbnail>xxxxxx</thumbnail>
 </item>
 
