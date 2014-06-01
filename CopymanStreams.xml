@@ -236,15 +236,15 @@
 <item>
 
 <item>
-<title>xxxxxxxxx</title>
-<link>xxxxxx</link>
+<title>ESPN</title>
+<link>http://2.61.228.173:1234/udp/233.7.70.195:5000</link>
 <thumbnail>xxxxxx</thumbnail>
 </item>
 <item>
 
 <item>
-<title>xxxxxxxxx</title>
-<link>xxxxxx</link>
+<title>FOX SPORTS</title>
+<link>rtsp://31.220.0.138:1935/live/fox1</link>
 <thumbnail>xxxxxx</thumbnail>
 </item>
 <item>
