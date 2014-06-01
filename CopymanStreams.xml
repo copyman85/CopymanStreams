@@ -90,20 +90,8 @@
 </item>
 
 <item>
-<title>CNN</title>
-<link>rtmpe://watch.playfooty.tv/live playpath=cnn1569 live=1 timeout=10 app=live swfUrl=http://www.playfooty.tv/play/player/player.swf pageUrl=http://www.playfooty.tv/play/embed.php?u=cnn1569&vw=600&vh=430</link>
-<thumbnail>xxxxxx</thumbnail>
-</item>
-
-<item>
 <title>Cartoon Network</title>
 <link>rtmpe://watch.playfooty.tv/live playpath=cartoonet100 live=1 timeout=10 app=live swfUrl=http://www.playfooty.tv/play/player/player.swf pageUrl=http://www.playfooty.tv/play/embed.php?u=cartoonet100&vw=600&vh=430</link>
-<thumbnail>xxxxxx</thumbnail>
-</item>
-
-<item>
-<title>hbotest</title>
-<link>rtmp://95.211.148.203/live playpath=canalplanet2?id=173816 live=1 timeout=10 app=live swfUrl=http://mips.tv/content/scripts/eplayer.swf pageUrl=http://mips.tv/embedplayer/canalplanet2/1/650/400</link>
 <thumbnail>xxxxxx</thumbnail>
 </item>
 
