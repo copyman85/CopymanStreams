@@ -42,7 +42,7 @@
 </item>
 
 <item>
-<title>CBS</title>
+<title>CBS *No sound*</title>
 <link>rtmpe://watch.playfooty.tv/live live=1 timeout=10 app=live playpath=cbss1569 swfUrl=http://www.playfooty.tv/play/player/player.swf pageUrl=http://www.playfooty.tv/play/embed.php?u=cbss1569&vw=600&vh=430</link>
 <thumbnail>xxxxxx</thumbnail>
 </item>
@@ -132,7 +132,7 @@
 </item>
 
 <item>
-<title>CN</title>
+<title>Cartoon Network</title>
 <link>http://31.43.120.162:8120/</link>
 <thumbnail>xxxxxx</thumbnail>
 </item>
