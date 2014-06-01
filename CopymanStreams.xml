@@ -42,7 +42,7 @@
 
 <item>
 <title>NBC test</title>
-<link>rtmp://$OPT:rtmp-raw=rtmpe://107.150.45.130:1935/goLive playpath=KZDhUvxFIj6q7IY swfUrl=http://rackcdn.com/jwplayer.flash.swf live=1 timeout=10 pageUrl=http://envivo.pw/ token=OOG17t.x#K9Vh#</link>
+<link>rtmpe://107.150.45.130:1935/goLive playpath=KZDhUvxFIj6q7IY swfUrl=http://rackcdn.com/jwplayer.flash.swf live=1 timeout=10 pageUrl=http://envivo.pw/ token=OOG17t.x#K9Vh#</link>
 <thumbnail>-</thumbnail>
 </item>
 
