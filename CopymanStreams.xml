@@ -141,3 +141,76 @@
 <link>rtmpe://watch.playfooty.tv/live playpath=cartoonet100 live=1 timeout=10 app=live swfUrl=http://www.playfooty.tv/play/player/player.swf pageUrl=http://www.playfooty.tv/play/embed.php?u=cartoonet100&vw=600&vh=430</link>
 <thumbnail>xxxxxx</thumbnail>
 </item>
+
+
+<item>
+<title>BBC World News</title>
+<link>rtmpe://live.wowcast.tv:1935/redirect/ playpath=bbcccc live=1 timeout=10 app=redirect swfUrl=http://www.wowcast.tv/player/player.swf pageUrl=http://www.wowcast.tv/embed.php?stream=bbcccc&vw=600&vh=430</link>
+<thumbnail>xxxxxx</thumbnail>
+</item>
+
+<item>
+<title>NBC</title>
+<link>rtmpe://107.150.45.130:1935/goLive playpath=KZDhUvxFIj6q7IY live=1 timeout=10 app=goLive swfUrl=http://rackcdn.com/jwplayer.flash.swf pageUrl=http://envivo.pw/ token=OOG17t.x#K9Vh#</link>
+<thumbnail>xxxxxx</thumbnail>
+</item>
+
+<item>
+<title>NATIONAL GEOGRAPHIC</title>
+<link>rtmpe://173.208.201.162:1935/goLive playpath=GD727mYru5vAmOd live=1 timeout=10 app=goLive swfUrl=http://rackcdn.com/jwplayer.flash.swf pageUrl=http://envivo.pw/ token=OOG17t.x#K9Vh#</link>
+<thumbnail>xxxxxx</thumbnail>
+</item>
+
+<item>
+<title>HISTORY CHANNEL</title>
+<link>rtmpe://173.208.201.162:1935/goLive playpath=AxyKdVINZYdVI61 live=1 timeout=10 app=goLive swfUrl=http://rackcdn.com/jwplayer.flash.swf pageUrl=http://envivo.pw/ token=OOG17t.x#K9Vh#</link>
+<thumbnail>xxxxxx</thumbnail>
+</item>
+
+<item>
+<title>xxxxxxxxx</title>
+<link>xxxxxx</link>
+<thumbnail>xxxxxx</thumbnail>
+</item>
+
+<item>
+<title>xxxxxxxxx</title>
+<link>xxxxxx</link>
+<thumbnail>xxxxxx</thumbnail>
+</item>
+
+<item>
+<title>xxxxxxxxx</title>
+<link>xxxxxx</link>
+<thumbnail>xxxxxx</thumbnail>
+</item>
+
+<item>
+<title>xxxxxxxxx</title>
+<link>xxxxxx</link>
+<thumbnail>xxxxxx</thumbnail>
+</item>
+
+<item>
+<title>xxxxxxxxx</title>
+<link>xxxxxx</link>
+<thumbnail>xxxxxx</thumbnail>
+</item>
+
+<item>
+<title>xxxxxxxxx</title>
+<link>xxxxxx</link>
+<thumbnail>xxxxxx</thumbnail>
+</item>
+
+<item>
+<title>xxxxxxxxx</title>
+<link>xxxxxx</link>
+<thumbnail>xxxxxx</thumbnail>
+</item>
+
+<item>
+<title>xxxxxxxxx</title>
+<link>xxxxxx</link>
+<thumbnail>xxxxxx</thumbnail>
+</item>
